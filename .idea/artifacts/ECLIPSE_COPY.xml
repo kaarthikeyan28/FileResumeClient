@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="ECLIPSE_COPY">
+    <output-path>$PROJECT_DIR$/out/artifacts/ECLIPSE_COPY</output-path>
+    <root id="root">
+      <element id="dir-copy" path="$USER_HOME$/new_eclipse/HTTP_File_transfer" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.apache.commons.io">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Vishnu Anna/org.apache.commons.io.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
